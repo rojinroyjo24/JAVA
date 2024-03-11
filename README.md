@@ -1,2 +1,2 @@
-# JAVA
+# OOPS LAV
 Java Programming Lab
